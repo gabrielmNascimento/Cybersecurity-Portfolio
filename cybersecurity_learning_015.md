@@ -100,9 +100,7 @@ Skills Covered:
 
     Software Integrity Failures
     Data Integrity Failures
-
-  🔹 Software and Data Integrity Failures
     
 🔍 Reflection
 
-This room helped me to know some more about the security headers in HTTP Requests
+This room helped me to know some more about the most common security failures according to OWASP
